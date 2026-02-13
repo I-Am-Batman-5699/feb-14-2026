@@ -1,0 +1,42 @@
+{
+  "en": {
+    "login_title": "LOVE GALAXY",
+    "login_subtitle": "System Initializing...",
+    "login_btn": "LAUNCH MISSION 🚀",
+    "login_guest_btn": "Enter Without Records (Skip to Final)",
+    "final_title": "Will you be my Valentine, ",
+    "yes_btn": "YES! ❤️",
+    "no_btn": "No",
+    "party_title": "IT'S OFFICIAL!",
+    "party_subtitle": "You are now officially Valentines!",
+    "party_footer": "Wishing you a universe full of love and cosmic adventures.",
+    "quotes": [
+      "Nice try! 😂",
+      "Error: 'No' is not a valid option.",
+      "Is your mouse broken? 🖱️",
+      "Resistance is futile! 👽",
+      "I can do this all day...",
+      "Calculated move, but I'm faster."
+    ]
+  },
+  "de": {
+    "login_title": "LIEBES GALAXY",
+    "login_subtitle": "System wird initialisiert...",
+    "login_btn": "MISSION STARTEN 🚀",
+    "login_guest_btn": "Ohne Daten fortfahren (Direkt zum Finale)",
+    "final_title": "Willst du mein Valentin sein, ",
+    "yes_btn": "JA! ❤️",
+    "no_btn": "Nein",
+    "party_title": "ES IST OFFIZIELL!",
+    "party_subtitle": "Ihr seid jetzt offiziell Valentinspartner!",
+    "party_footer": "Wir wünschen euch ein Universum voller Liebe und kosmischer Abenteuer.",
+    "quotes": [
+      "Netter Versuch! 😂",
+      "Fehler: 'Nein' ist keine Option.",
+      "Ist deine Maus kaputt? 🖱️",
+      "Widerstand ist zwecklos! 👽",
+      "Ich hab den ganzen Tag Zeit...",
+      "Guter Versuch, aber ich bin schneller."
+    ]
+  }
+}

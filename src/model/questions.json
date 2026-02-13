@@ -1,0 +1,186 @@
+{
+  "en": {
+    "general": [
+      {
+        "question": "If our love was code, what would it be?",
+        "options": ["A bug that never gets fixed", "A recursive loop of cuddles", "A semi-colon I always forget", "Legacy code from 1995"],
+        "answer": 1,
+        "wittyRemark": "System Status: 100% In Love! ❤️",
+        "funnyRemark": "Error 404: Romance not found. Try again, newbie!"
+      },
+      {
+        "question": "Which of these is the ultimate relationship killer?",
+        "options": ["Leaving the toilet seat up", "Spoiling a Netflix show", "Forgetting the anniversary", "Stealing the last slice of pizza"],
+        "answer": 3,
+        "wittyRemark": "Correct! Pizza theft is a federal offense.",
+        "funnyRemark": "Wrong! Netflix spoilers are bad, but pizza is SACRED."
+      },
+      {
+        "question": "Where should our next 'Cosmic' date be?",
+        "options": ["The Moon", "A Black Hole (no escape)", "Mars (with Elon)", "The nearest 7-Eleven"],
+        "answer": 0,
+        "wittyRemark": "Pack your spacesuit! 👩‍🚀👨‍🚀",
+        "funnyRemark": "A black hole? Is our love that heavy?"
+      },
+      {
+        "question": "Is your partner the cutest person alive?",
+        "options": ["Yes", "Obviously Yes", "Actually...", "I decline to answer"],
+        "answer": 1,
+        "wittyRemark": "Smart choice. You get to live another day! 😂",
+        "funnyRemark": "Danger detected! Pick a better answer!"
+      }
+    ],
+    "Swati-Rahul": [
+      {
+        "question": "What is the pet name I've given to my laptop?",
+        "options": ["Elsa", "Lucy", "Gupta", "I don't give a shit"],
+        "answer": 0,
+        "wittyRemark": "Let it go! Elsa is the queen. ❄️",
+        "funnyRemark": "Wrong! My laptop is family!"
+      },
+      {
+        "question": "When did I propose to you?",
+        "options": ["April 4th 2025", "May 10th 2025", "April 1st 2025", "I forgot"],
+        "answer": 0,
+        "wittyRemark": "The day the stars aligned! ✨",
+        "funnyRemark": "How could you forget? I'm taking the ring back!"
+      },
+      {
+        "question": "How much money do I owe you?",
+        "options": ["90,000rs +", "30,000rs +", "My soul", "Nothing is owed based on love"],
+        "answer": 3,
+        "wittyRemark": "Correct! Paid in kisses. 😘",
+        "funnyRemark": "90k?! Are you trying to retire early?"
+      },
+      {
+        "question": "Gold, Plot or a trip: what would I choose?",
+        "options": ["Gold, Plot and take you somewhere", "Gold and plot", "A trip", "Depends on the moment"],
+        "answer": 0,
+        "wittyRemark": "Always everything when it comes to you! 🏰",
+        "funnyRemark": "Wrong. I'm greedy for your happiness!"
+      }
+    ],
+    "Laura-Paul": [
+      {
+        "question": "What is my favorite insider joke with you?",
+        "options": ["Our funny nickname", "Our stupid joke", "That one situation", "Something no one else gets"],
+        "answer": 0,
+        "wittyRemark": "Exactly! Only we know. ❤️",
+        "funnyRemark": "Nope, think again!"
+      },
+      {
+        "question": "What do I (currently) almost always say to you?",
+        "options": ["Darling", "Mousey", "Sweetheart", "Schnuuu"],
+        "answer": 3,
+        "wittyRemark": "Schnuuu! Correct. 😘",
+        "funnyRemark": "Wrong! Do you even listen to me?"
+      },
+      {
+        "question": "What would I never want to change about you?",
+        "options": ["Your way", "Your smile", "Your personality", "Everything about you"],
+        "answer": 3,
+        "wittyRemark": "You are perfect! ✨",
+        "funnyRemark": "Flattering, but I want to keep EVERYTHING!"
+      },
+      {
+        "question": "What do I wish for our future?",
+        "options": ["Many memories", "You by my side", "Together forever", "All of the above"],
+        "answer": 3,
+        "wittyRemark": "Forever and always! ❤️",
+        "funnyRemark": "Not enough, I want it ALL!"
+      }
+    ]
+  },
+  "de": {
+    "general": [
+      {
+        "question": "Wenn unsere Liebe Code wäre, was wäre sie?",
+        "options": ["Ein Bug", "Eine Kuschel-Schleife", "Ein Semikolon", "Legacy-Code"],
+        "answer": 1,
+        "wittyRemark": "Systemstatus: 100% verliebt! ❤️",
+        "funnyRemark": "Fehler 404: Romantik nicht gefunden!"
+      },
+      {
+        "question": "Was ist der ultimative Beziehungskiller?",
+        "options": ["Klobrille oben lassen", "Netflix-Spoiler", "Jahrestag vergessen", "Das letzte Stück Pizza klauen"],
+        "answer": 3,
+        "wittyRemark": "Richtig! Pizzadiebstahl ist ein Verbrechen.",
+        "funnyRemark": "Falsch! Pizza ist HEILIG."
+      },
+      {
+        "question": "Wo sollte unser nächstes Date sein?",
+        "options": ["Der Mond", "Ein Schwarzes Loch", "Mars (mit Elon)", "Der nächste Kiosk"],
+        "answer": 0,
+        "wittyRemark": "Pack deinen Raumanzug ein! 👨‍🚀",
+        "funnyRemark": "Schwarzes Loch? Ist unsere Liebe so schwer?"
+      },
+      {
+        "question": "Ist dein Partner die süßeste Person der Welt?",
+        "options": ["Ja", "Offensichtlich Ja", "Eigentlich...", "Ich verweigere die Aussage"],
+        "answer": 1,
+        "wittyRemark": "Gute Wahl. Du darfst weiterleben! 😂",
+        "funnyRemark": "Gefahr erkannt! Wähle eine bessere Antwort!"
+      }
+    ],
+    "Swati-Rahul": [
+      {
+        "question": "Wie heißt mein Laptop (Spitzname)?",
+        "options": ["Elsa", "Lucy", "Gupta", "Ist mir egal"],
+        "answer": 0,
+        "wittyRemark": "Lass es los! Elsa ist die Königin. ❄️",
+        "funnyRemark": "Falsch! Mein Laptop gehört zur Familie!"
+      },
+      {
+        "question": "Wann habe ich dir den Antrag gemacht?",
+        "options": ["4. April 2025", "10. Mai 2025", "1. April 2025", "Hab's vergessen"],
+        "answer": 0,
+        "wittyRemark": "Der Tag, an dem die Sterne richtig standen! ✨",
+        "funnyRemark": "Wie konntest du das vergessen?!"
+      },
+      {
+        "question": "Wie viel Geld schulde ich dir?",
+        "options": ["90.000rs +", "30.000rs +", "Meine Seele", "In der Liebe gibt es keine Schulden"],
+        "answer": 3,
+        "wittyRemark": "Richtig! Wir zahlen in Küssen. 😘",
+        "funnyRemark": "90k?! Willst du in Rente gehen?"
+      },
+      {
+        "question": "Gold, Grundstück oder Reise: Was wähle ich?",
+        "options": ["Gold, Grundstück UND die Reise", "Gold und Grundstück", "Eine Reise", "Kommt auf den Moment an"],
+        "answer": 0,
+        "wittyRemark": "Immer ALLES, wenn es um dich geht! 🏰",
+        "funnyRemark": "Falsch. Ich will alles für dein Glück!"
+      }
+    ],
+    "Laura-Paul": [
+      {
+        "question": "Was ist mein Lieblings-Insider mit dir?",
+        "options": ["Unser lustiger Spitzname", "Unser dummer Witz", "Diese eine Situation", "Etwas, das niemand sonst versteht"],
+        "answer": 0,
+        "wittyRemark": "Genau! Nur wir wissen Bescheid. ❤️",
+        "funnyRemark": "Nö, denk nochmal nach!"
+      },
+      {
+        "question": "Was sage ich (aktuell) fast immer zu dir?",
+        "options": ["Schatz", "Mäusi", "Liebling", "Schnuuu"],
+        "answer": 3,
+        "wittyRemark": "Schnuuu! Richtig geraten. 😘",
+        "funnyRemark": "Falsch! Hast du mir überhaupt zugehört?"
+      },
+      {
+        "question": "Was würde ich niemals an dir ändern wollen?",
+        "options": ["Deine Art", "Dein Lächeln", "Deine Persönlichkeit", "Alles an dir"],
+        "answer": 3,
+        "wittyRemark": "Du bist perfekt so wie du bist! ✨",
+        "funnyRemark": "Schmeichelhaft, aber ich will ALLES behalten!"
+      },
+      {
+        "question": "Was wünsche ich mir für unsere Zukunft?",
+        "options": ["Ganz viele gemeinsame Erinnerungen", "Dich an meiner Seite zu haben", "Für immer mit dir zusammen zu sein", "Alles oben genannte"],
+        "answer": 3,
+        "wittyRemark": "Für immer und ewig! ❤️",
+        "funnyRemark": "Das reicht mir nicht, ich will ALLES!"
+      }
+    ]
+  }
+}
