@@ -14,9 +14,10 @@ function App() {
   const handleLogin = (you: string, partner: string, guest: boolean = false) => {
     setNames({ you, partner });
     setIsGuest(guest);
-    
+
     if (guest) {
-      setStage("FINAL"); // Bypass Quiz for guests
+      // setStage("FINAL"); // Bypass Quiz for guests
+      setStage("QUIZ");
     } else {
       setStage("QUIZ");  // Proceed to personalized/general quiz
     }
@@ -25,39 +26,39 @@ function App() {
   return (
     <div className="h-full w-full bg-[#050510]">
       {stage === "LOGIN" && (
-        <Login 
-          onLogin={handleLogin} 
-          lang={lang} 
-          setLang={setLang} 
-          strings={strings} 
-        />
-      )}
-      
-      {stage === "QUIZ" && (
-        <Quiz 
-          you={names.you}
-          partner={names.partner} 
+        <Login
+          onLogin={handleLogin}
           lang={lang}
-          isGuest={isGuest} 
-          onFinish={() => setStage("FINAL")} 
+          setLang={setLang}
+          strings={strings}
         />
       )}
-      
+
+      {stage === "QUIZ" && (
+        <Quiz
+          you={names.you}
+          partner={names.partner}
+          lang={lang}
+          isGuest={isGuest}
+          onFinish={() => setStage("FINAL")}
+        />
+      )}
+
       {stage === "FINAL" && (
-        <FinalQuestion 
-          partner={names.partner} 
-          lang={lang} 
-          strings={strings} 
-          onYes={() => setStage("PARTY")} 
+        <FinalQuestion
+          partner={names.partner}
+          lang={lang}
+          strings={strings}
+          onYes={() => setStage("PARTY")}
         />
       )}
-      
+
       {stage === "PARTY" && (
-        <Celebration 
-          you={names.you} 
-          partner={names.partner} 
-          lang={lang} 
-          strings={strings} 
+        <Celebration
+          you={names.you}
+          partner={names.partner}
+          lang={lang}
+          strings={strings}
         />
       )}
     </div>
